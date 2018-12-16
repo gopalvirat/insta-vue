@@ -1,4 +1,4 @@
-# ic
+# insta-vue
 
 ## Project setup
 ```
